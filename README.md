@@ -57,8 +57,8 @@ Clicking on any evidence file opens a secure preview page. PDFs display in a san
 
 1. Clone or create your repository:
 ```bash
-git clone <your-repo-url>
-cd leonid-court
+git clone https://github.com/LiventNick/EvidenceVault.git
+cd EvidenceVault
 ```
 
 2. Install dependencies:
