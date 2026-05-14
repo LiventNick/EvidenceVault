@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Financial Evidence",
+    "slug": "financial-evidence",
+    "rows": [
+      {
+        "date": "2025-01-15",
+        "description": "Bank Statement - January",
+        "amount": "5000",
+        "category": "Bank Records",
+        "supporting_document": "Financial_Records/Bank_Statement_Jan.pdf"
+      },
+      {
+        "date": "2025-01-20",
+        "description": "Legal Consultation Fee",
+        "amount": "2500",
+        "category": "Legal Services",
+        "supporting_document": "Legal_Documents/Legal_Invoice_Jan.pdf"
+      },
+      {
+        "date": "2025-02-01",
+        "description": "Medical Treatment - Doctor Visit",
+        "amount": "800",
+        "category": "Medical",
+        "supporting_document": "Medical_Evidence/Doctor_Invoice_Feb.pdf"
+      },
+      {
+        "date": "2025-02-10",
+        "description": "Pharmacy Prescription",
+        "amount": "145.5",
+        "category": "Medical",
+        "supporting_document": "Medical_Evidence/Pharmacy_Receipt.pdf"
+      },
+      {
+        "date": "2025-03-05",
+        "description": "Bank Statement - March",
+        "amount": "4200",
+        "category": "Bank Records",
+        "supporting_document": "Financial_Records/Bank_Statement_Mar.pdf"
+      },
+      {
+        "date": "2025-03-15",
+        "description": "Additional Medical Exam",
+        "amount": "600",
+        "category": "Medical",
+        "supporting_document": "Medical_Evidence/Medical_Exam_Mar.pdf"
+      }
+    ],
+    "html": "<html><head><meta charset=\"utf-8\"/><title>SheetJS Table Export</title></head><body><table class=\"excel-sheet-table\"><tr><td data-t=\"s\" data-v=\"Date\" data-z=\"General\" id=\"sjs-A1\">Date</td><td data-t=\"s\" data-v=\"Description\" data-z=\"General\" id=\"sjs-B1\">Description</td><td data-t=\"s\" data-v=\"Amount\" data-z=\"General\" id=\"sjs-C1\">Amount</td><td data-t=\"s\" data-v=\"Category\" data-z=\"General\" id=\"sjs-D1\">Category</td><td data-t=\"s\" data-v=\"Supporting Document\" data-z=\"General\" id=\"sjs-E1\">Supporting Document</td></tr><tr><td data-t=\"s\" data-v=\"2025-01-15\" data-z=\"General\" id=\"sjs-A2\">2025-01-15</td><td data-t=\"s\" data-v=\"Bank Statement - January\" data-z=\"General\" id=\"sjs-B2\">Bank Statement - January</td><td data-t=\"n\" data-v=\"5000\" data-z=\"General\" id=\"sjs-C2\">5000</td><td data-t=\"s\" data-v=\"Bank Records\" data-z=\"General\" id=\"sjs-D2\">Bank Records</td><td data-t=\"s\" data-v=\"Financial_Records/Bank_Statement_Jan.pdf\" data-z=\"General\" id=\"sjs-E2\">Financial_Records/Bank_Statement_Jan.pdf</td></tr><tr><td data-t=\"s\" data-v=\"2025-01-20\" data-z=\"General\" id=\"sjs-A3\">2025-01-20</td><td data-t=\"s\" data-v=\"Legal Consultation Fee\" data-z=\"General\" id=\"sjs-B3\">Legal Consultation Fee</td><td data-t=\"n\" data-v=\"2500\" data-z=\"General\" id=\"sjs-C3\">2500</td><td data-t=\"s\" data-v=\"Legal Services\" data-z=\"General\" id=\"sjs-D3\">Legal Services</td><td data-t=\"s\" data-v=\"Legal_Documents/Legal_Invoice_Jan.pdf\" data-z=\"General\" id=\"sjs-E3\">Legal_Documents/Legal_Invoice_Jan.pdf</td></tr><tr><td data-t=\"s\" data-v=\"2025-02-01\" data-z=\"General\" id=\"sjs-A4\">2025-02-01</td><td data-t=\"s\" data-v=\"Medical Treatment - Doctor Visit\" data-z=\"General\" id=\"sjs-B4\">Medical Treatment - Doctor Visit</td><td data-t=\"n\" data-v=\"800\" data-z=\"General\" id=\"sjs-C4\">800</td><td data-t=\"s\" data-v=\"Medical\" data-z=\"General\" id=\"sjs-D4\">Medical</td><td data-t=\"s\" data-v=\"Medical_Evidence/Doctor_Invoice_Feb.pdf\" data-z=\"General\" id=\"sjs-E4\">Medical_Evidence/Doctor_Invoice_Feb.pdf</td></tr><tr><td data-t=\"s\" data-v=\"2025-02-10\" data-z=\"General\" id=\"sjs-A5\">2025-02-10</td><td data-t=\"s\" data-v=\"Pharmacy Prescription\" data-z=\"General\" id=\"sjs-B5\">Pharmacy Prescription</td><td data-t=\"n\" data-v=\"145.5\" data-z=\"General\" id=\"sjs-C5\">145.5</td><td data-t=\"s\" data-v=\"Medical\" data-z=\"General\" id=\"sjs-D5\">Medical</td><td data-t=\"s\" data-v=\"Medical_Evidence/Pharmacy_Receipt.pdf\" data-z=\"General\" id=\"sjs-E5\">Medical_Evidence/Pharmacy_Receipt.pdf</td></tr><tr><td data-t=\"s\" data-v=\"2025-03-05\" data-z=\"General\" id=\"sjs-A6\">2025-03-05</td><td data-t=\"s\" data-v=\"Bank Statement - March\" data-z=\"General\" id=\"sjs-B6\">Bank Statement - March</td><td data-t=\"n\" data-v=\"4200\" data-z=\"General\" id=\"sjs-C6\">4200</td><td data-t=\"s\" data-v=\"Bank Records\" data-z=\"General\" id=\"sjs-D6\">Bank Records</td><td data-t=\"s\" data-v=\"Financial_Records/Bank_Statement_Mar.pdf\" data-z=\"General\" id=\"sjs-E6\">Financial_Records/Bank_Statement_Mar.pdf</td></tr><tr><td data-t=\"s\" data-v=\"2025-03-15\" data-z=\"General\" id=\"sjs-A7\">2025-03-15</td><td data-t=\"s\" data-v=\"Additional Medical Exam\" data-z=\"General\" id=\"sjs-B7\">Additional Medical Exam</td><td data-t=\"n\" data-v=\"600\" data-z=\"General\" id=\"sjs-C7\">600</td><td data-t=\"s\" data-v=\"Medical\" data-z=\"General\" id=\"sjs-D7\">Medical</td><td data-t=\"s\" data-v=\"Medical_Evidence/Medical_Exam_Mar.pdf\" data-z=\"General\" id=\"sjs-E7\">Medical_Evidence/Medical_Exam_Mar.pdf</td></tr></table></body></html>"
+  },
+  {
+    "name": "Timeline",
+    "slug": "timeline",
+    "rows": [
+      {
+        "date": "2024-06-15",
+        "event": "Initial Incident Report Filed",
+        "parties_involved": "Plaintiff",
+        "location": "Court of Record",
+        "evidence_file": "Legal_Documents/Incident_Report.pdf",
+        "notes": "Formal complaint submitted"
+      },
+      {
+        "date": "2024-06-20",
+        "event": "Defendant Response Received",
+        "parties_involved": "Defendant",
+        "location": "Court of Record",
+        "evidence_file": "Correspondence/Defendant_Response.pdf",
+        "notes": "Official response with counterclaims"
+      },
+      {
+        "date": "2024-07-01",
+        "event": "Third-Party Medical Evaluation",
+        "parties_involved": "Medical Examiner",
+        "location": "Medical Office",
+        "evidence_file": "Medical_Evidence/Medical_Evaluation.pdf",
+        "notes": "Independent evaluation completed"
+      },
+      {
+        "date": "2024-07-15",
+        "event": "Discovery Period - Documents Exchanged",
+        "parties_involved": "Both Parties",
+        "location": "Court",
+        "evidence_file": "Legal_Documents/Discovery_List.pdf",
+        "notes": "All parties exchanged documents"
+      },
+      {
+        "date": "2024-08-10",
+        "event": "Motion Hearing",
+        "parties_involved": "Both Parties + Judge",
+        "location": "Court Room 4",
+        "evidence_file": "Legal_Documents/Hearing_Transcript.pdf",
+        "notes": "Pre-trial motion hearing held"
+      }
+    ],
+    "html": "<html><head><meta charset=\"utf-8\"/><title>SheetJS Table Export</title></head><body><table class=\"excel-sheet-table\"><tr><td data-t=\"s\" data-v=\"Date\" data-z=\"General\" id=\"sjs-A1\">Date</td><td data-t=\"s\" data-v=\"Event\" data-z=\"General\" id=\"sjs-B1\">Event</td><td data-t=\"s\" data-v=\"Parties Involved\" data-z=\"General\" id=\"sjs-C1\">Parties Involved</td><td data-t=\"s\" data-v=\"Location\" data-z=\"General\" id=\"sjs-D1\">Location</td><td data-t=\"s\" data-v=\"Evidence File\" data-z=\"General\" id=\"sjs-E1\">Evidence File</td><td data-t=\"s\" data-v=\"Notes\" data-z=\"General\" id=\"sjs-F1\">Notes</td></tr><tr><td data-t=\"s\" data-v=\"2024-06-15\" data-z=\"General\" id=\"sjs-A2\">2024-06-15</td><td data-t=\"s\" data-v=\"Initial Incident Report Filed\" data-z=\"General\" id=\"sjs-B2\">Initial Incident Report Filed</td><td data-t=\"s\" data-v=\"Plaintiff\" data-z=\"General\" id=\"sjs-C2\">Plaintiff</td><td data-t=\"s\" data-v=\"Court of Record\" data-z=\"General\" id=\"sjs-D2\">Court of Record</td><td data-t=\"s\" data-v=\"Legal_Documents/Incident_Report.pdf\" data-z=\"General\" id=\"sjs-E2\">Legal_Documents/Incident_Report.pdf</td><td data-t=\"s\" data-v=\"Formal complaint submitted\" data-z=\"General\" id=\"sjs-F2\">Formal complaint submitted</td></tr><tr><td data-t=\"s\" data-v=\"2024-06-20\" data-z=\"General\" id=\"sjs-A3\">2024-06-20</td><td data-t=\"s\" data-v=\"Defendant Response Received\" data-z=\"General\" id=\"sjs-B3\">Defendant Response Received</td><td data-t=\"s\" data-v=\"Defendant\" data-z=\"General\" id=\"sjs-C3\">Defendant</td><td data-t=\"s\" data-v=\"Court of Record\" data-z=\"General\" id=\"sjs-D3\">Court of Record</td><td data-t=\"s\" data-v=\"Correspondence/Defendant_Response.pdf\" data-z=\"General\" id=\"sjs-E3\">Correspondence/Defendant_Response.pdf</td><td data-t=\"s\" data-v=\"Official response with counterclaims\" data-z=\"General\" id=\"sjs-F3\">Official response with counterclaims</td></tr><tr><td data-t=\"s\" data-v=\"2024-07-01\" data-z=\"General\" id=\"sjs-A4\">2024-07-01</td><td data-t=\"s\" data-v=\"Third-Party Medical Evaluation\" data-z=\"General\" id=\"sjs-B4\">Third-Party Medical Evaluation</td><td data-t=\"s\" data-v=\"Medical Examiner\" data-z=\"General\" id=\"sjs-C4\">Medical Examiner</td><td data-t=\"s\" data-v=\"Medical Office\" data-z=\"General\" id=\"sjs-D4\">Medical Office</td><td data-t=\"s\" data-v=\"Medical_Evidence/Medical_Evaluation.pdf\" data-z=\"General\" id=\"sjs-E4\">Medical_Evidence/Medical_Evaluation.pdf</td><td data-t=\"s\" data-v=\"Independent evaluation completed\" data-z=\"General\" id=\"sjs-F4\">Independent evaluation completed</td></tr><tr><td data-t=\"s\" data-v=\"2024-07-15\" data-z=\"General\" id=\"sjs-A5\">2024-07-15</td><td data-t=\"s\" data-v=\"Discovery Period - Documents Exchanged\" data-z=\"General\" id=\"sjs-B5\">Discovery Period - Documents Exchanged</td><td data-t=\"s\" data-v=\"Both Parties\" data-z=\"General\" id=\"sjs-C5\">Both Parties</td><td data-t=\"s\" data-v=\"Court\" data-z=\"General\" id=\"sjs-D5\">Court</td><td data-t=\"s\" data-v=\"Legal_Documents/Discovery_List.pdf\" data-z=\"General\" id=\"sjs-E5\">Legal_Documents/Discovery_List.pdf</td><td data-t=\"s\" data-v=\"All parties exchanged documents\" data-z=\"General\" id=\"sjs-F5\">All parties exchanged documents</td></tr><tr><td data-t=\"s\" data-v=\"2024-08-10\" data-z=\"General\" id=\"sjs-A6\">2024-08-10</td><td data-t=\"s\" data-v=\"Motion Hearing\" data-z=\"General\" id=\"sjs-B6\">Motion Hearing</td><td data-t=\"s\" data-v=\"Both Parties + Judge\" data-z=\"General\" id=\"sjs-C6\">Both Parties + Judge</td><td data-t=\"s\" data-v=\"Court Room 4\" data-z=\"General\" id=\"sjs-D6\">Court Room 4</td><td data-t=\"s\" data-v=\"Legal_Documents/Hearing_Transcript.pdf\" data-z=\"General\" id=\"sjs-E6\">Legal_Documents/Hearing_Transcript.pdf</td><td data-t=\"s\" data-v=\"Pre-trial motion hearing held\" data-z=\"General\" id=\"sjs-F6\">Pre-trial motion hearing held</td></tr></table></body></html>"
+  },
+  {
+    "name": "Medical Records",
+    "slug": "medical-records",
+    "rows": [
+      {
+        "date": "2025-01-10",
+        "provider": "Dr. Smith MD",
+        "treatment": "Consultation",
+        "cost": "150",
+        "insurance_covered": "Yes",
+        "document": "Medical_Evidence/Consult_Jan.pdf"
+      },
+      {
+        "date": "2025-01-20",
+        "provider": "Hospital ABC",
+        "treatment": "Lab Tests",
+        "cost": "450",
+        "insurance_covered": "Partial",
+        "document": "Medical_Evidence/Lab_Tests_Jan.pdf"
+      },
+      {
+        "date": "2025-02-15",
+        "provider": "Physical Therapy",
+        "treatment": "PT Session (3x)",
+        "cost": "300",
+        "insurance_covered": "Yes",
+        "document": "Medical_Evidence/PT_Sessions.pdf"
+      },
+      {
+        "date": "2025-03-05",
+        "provider": "Pharmacy",
+        "treatment": "Medications",
+        "cost": "125.5",
+        "insurance_covered": "Yes",
+        "document": "Medical_Evidence/Pharmacy_Mar.pdf"
+      }
+    ],
+    "html": "<html><head><meta charset=\"utf-8\"/><title>SheetJS Table Export</title></head><body><table class=\"excel-sheet-table\"><tr><td data-t=\"s\" data-v=\"Date\" data-z=\"General\" id=\"sjs-A1\">Date</td><td data-t=\"s\" data-v=\"Provider\" data-z=\"General\" id=\"sjs-B1\">Provider</td><td data-t=\"s\" data-v=\"Treatment\" data-z=\"General\" id=\"sjs-C1\">Treatment</td><td data-t=\"s\" data-v=\"Cost\" data-z=\"General\" id=\"sjs-D1\">Cost</td><td data-t=\"s\" data-v=\"Insurance Covered\" data-z=\"General\" id=\"sjs-E1\">Insurance Covered</td><td data-t=\"s\" data-v=\"Document\" data-z=\"General\" id=\"sjs-F1\">Document</td></tr><tr><td data-t=\"s\" data-v=\"2025-01-10\" data-z=\"General\" id=\"sjs-A2\">2025-01-10</td><td data-t=\"s\" data-v=\"Dr. Smith MD\" data-z=\"General\" id=\"sjs-B2\">Dr. Smith MD</td><td data-t=\"s\" data-v=\"Consultation\" data-z=\"General\" id=\"sjs-C2\">Consultation</td><td data-t=\"n\" data-v=\"150\" data-z=\"General\" id=\"sjs-D2\">150</td><td data-t=\"s\" data-v=\"Yes\" data-z=\"General\" id=\"sjs-E2\">Yes</td><td data-t=\"s\" data-v=\"Medical_Evidence/Consult_Jan.pdf\" data-z=\"General\" id=\"sjs-F2\">Medical_Evidence/Consult_Jan.pdf</td></tr><tr><td data-t=\"s\" data-v=\"2025-01-20\" data-z=\"General\" id=\"sjs-A3\">2025-01-20</td><td data-t=\"s\" data-v=\"Hospital ABC\" data-z=\"General\" id=\"sjs-B3\">Hospital ABC</td><td data-t=\"s\" data-v=\"Lab Tests\" data-z=\"General\" id=\"sjs-C3\">Lab Tests</td><td data-t=\"n\" data-v=\"450\" data-z=\"General\" id=\"sjs-D3\">450</td><td data-t=\"s\" data-v=\"Partial\" data-z=\"General\" id=\"sjs-E3\">Partial</td><td data-t=\"s\" data-v=\"Medical_Evidence/Lab_Tests_Jan.pdf\" data-z=\"General\" id=\"sjs-F3\">Medical_Evidence/Lab_Tests_Jan.pdf</td></tr><tr><td data-t=\"s\" data-v=\"2025-02-15\" data-z=\"General\" id=\"sjs-A4\">2025-02-15</td><td data-t=\"s\" data-v=\"Physical Therapy\" data-z=\"General\" id=\"sjs-B4\">Physical Therapy</td><td data-t=\"s\" data-v=\"PT Session (3x)\" data-z=\"General\" id=\"sjs-C4\">PT Session (3x)</td><td data-t=\"n\" data-v=\"300\" data-z=\"General\" id=\"sjs-D4\">300</td><td data-t=\"s\" data-v=\"Yes\" data-z=\"General\" id=\"sjs-E4\">Yes</td><td data-t=\"s\" data-v=\"Medical_Evidence/PT_Sessions.pdf\" data-z=\"General\" id=\"sjs-F4\">Medical_Evidence/PT_Sessions.pdf</td></tr><tr><td data-t=\"s\" data-v=\"2025-03-05\" data-z=\"General\" id=\"sjs-A5\">2025-03-05</td><td data-t=\"s\" data-v=\"Pharmacy\" data-z=\"General\" id=\"sjs-B5\">Pharmacy</td><td data-t=\"s\" data-v=\"Medications\" data-z=\"General\" id=\"sjs-C5\">Medications</td><td data-t=\"n\" data-v=\"125.5\" data-z=\"General\" id=\"sjs-D5\">125.5</td><td data-t=\"s\" data-v=\"Yes\" data-z=\"General\" id=\"sjs-E5\">Yes</td><td data-t=\"s\" data-v=\"Medical_Evidence/Pharmacy_Mar.pdf\" data-z=\"General\" id=\"sjs-F5\">Medical_Evidence/Pharmacy_Mar.pdf</td></tr></table></body></html>"
+  },
+  {
+    "name": "Correspondence",
+    "slug": "correspondence",
+    "rows": [
+      {
+        "date": "2025-01-10",
+        "from": "Plaintiff",
+        "to": "Defendant",
+        "subject": "Demand Letter",
+        "document": "Correspondence/Demand_Letter.pdf",
+        "status": "Sent"
+      },
+      {
+        "date": "2025-01-15",
+        "from": "Defendant",
+        "to": "Plaintiff",
+        "subject": "Response Letter",
+        "document": "Correspondence/Response_Letter.pdf",
+        "status": "Received"
+      },
+      {
+        "date": "2025-01-20",
+        "from": "Both",
+        "to": "Court",
+        "subject": "Motion to Dismiss",
+        "document": "Legal_Documents/Motion.pdf",
+        "status": "Filed"
+      },
+      {
+        "date": "2025-02-01",
+        "from": "Judge",
+        "to": "Both Parties",
+        "subject": "Ruling on Motion",
+        "document": "Legal_Documents/Ruling.pdf",
+        "status": "Received"
+      }
+    ],
+    "html": "<html><head><meta charset=\"utf-8\"/><title>SheetJS Table Export</title></head><body><table class=\"excel-sheet-table\"><tr><td data-t=\"s\" data-v=\"Date\" data-z=\"General\" id=\"sjs-A1\">Date</td><td data-t=\"s\" data-v=\"From\" data-z=\"General\" id=\"sjs-B1\">From</td><td data-t=\"s\" data-v=\"To\" data-z=\"General\" id=\"sjs-C1\">To</td><td data-t=\"s\" data-v=\"Subject\" data-z=\"General\" id=\"sjs-D1\">Subject</td><td data-t=\"s\" data-v=\"Document\" data-z=\"General\" id=\"sjs-E1\">Document</td><td data-t=\"s\" data-v=\"Status\" data-z=\"General\" id=\"sjs-F1\">Status</td></tr><tr><td data-t=\"s\" data-v=\"2025-01-10\" data-z=\"General\" id=\"sjs-A2\">2025-01-10</td><td data-t=\"s\" data-v=\"Plaintiff\" data-z=\"General\" id=\"sjs-B2\">Plaintiff</td><td data-t=\"s\" data-v=\"Defendant\" data-z=\"General\" id=\"sjs-C2\">Defendant</td><td data-t=\"s\" data-v=\"Demand Letter\" data-z=\"General\" id=\"sjs-D2\">Demand Letter</td><td data-t=\"s\" data-v=\"Correspondence/Demand_Letter.pdf\" data-z=\"General\" id=\"sjs-E2\">Correspondence/Demand_Letter.pdf</td><td data-t=\"s\" data-v=\"Sent\" data-z=\"General\" id=\"sjs-F2\">Sent</td></tr><tr><td data-t=\"s\" data-v=\"2025-01-15\" data-z=\"General\" id=\"sjs-A3\">2025-01-15</td><td data-t=\"s\" data-v=\"Defendant\" data-z=\"General\" id=\"sjs-B3\">Defendant</td><td data-t=\"s\" data-v=\"Plaintiff\" data-z=\"General\" id=\"sjs-C3\">Plaintiff</td><td data-t=\"s\" data-v=\"Response Letter\" data-z=\"General\" id=\"sjs-D3\">Response Letter</td><td data-t=\"s\" data-v=\"Correspondence/Response_Letter.pdf\" data-z=\"General\" id=\"sjs-E3\">Correspondence/Response_Letter.pdf</td><td data-t=\"s\" data-v=\"Received\" data-z=\"General\" id=\"sjs-F3\">Received</td></tr><tr><td data-t=\"s\" data-v=\"2025-01-20\" data-z=\"General\" id=\"sjs-A4\">2025-01-20</td><td data-t=\"s\" data-v=\"Both\" data-z=\"General\" id=\"sjs-B4\">Both</td><td data-t=\"s\" data-v=\"Court\" data-z=\"General\" id=\"sjs-C4\">Court</td><td data-t=\"s\" data-v=\"Motion to Dismiss\" data-z=\"General\" id=\"sjs-D4\">Motion to Dismiss</td><td data-t=\"s\" data-v=\"Legal_Documents/Motion.pdf\" data-z=\"General\" id=\"sjs-E4\">Legal_Documents/Motion.pdf</td><td data-t=\"s\" data-v=\"Filed\" data-z=\"General\" id=\"sjs-F4\">Filed</td></tr><tr><td data-t=\"s\" data-v=\"2025-02-01\" data-z=\"General\" id=\"sjs-A5\">2025-02-01</td><td data-t=\"s\" data-v=\"Judge\" data-z=\"General\" id=\"sjs-B5\">Judge</td><td data-t=\"s\" data-v=\"Both Parties\" data-z=\"General\" id=\"sjs-C5\">Both Parties</td><td data-t=\"s\" data-v=\"Ruling on Motion\" data-z=\"General\" id=\"sjs-D5\">Ruling on Motion</td><td data-t=\"s\" data-v=\"Legal_Documents/Ruling.pdf\" data-z=\"General\" id=\"sjs-E5\">Legal_Documents/Ruling.pdf</td><td data-t=\"s\" data-v=\"Received\" data-z=\"General\" id=\"sjs-F5\">Received</td></tr></table></body></html>"
+  }
+]

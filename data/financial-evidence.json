@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2025-01-15",
+    "description": "Bank Statement - January",
+    "amount": "5000",
+    "category": "Bank Records",
+    "supporting_document": "Financial_Records/Bank_Statement_Jan.pdf"
+  },
+  {
+    "date": "2025-01-20",
+    "description": "Legal Consultation Fee",
+    "amount": "2500",
+    "category": "Legal Services",
+    "supporting_document": "Legal_Documents/Legal_Invoice_Jan.pdf"
+  },
+  {
+    "date": "2025-02-01",
+    "description": "Medical Treatment - Doctor Visit",
+    "amount": "800",
+    "category": "Medical",
+    "supporting_document": "Medical_Evidence/Doctor_Invoice_Feb.pdf"
+  },
+  {
+    "date": "2025-02-10",
+    "description": "Pharmacy Prescription",
+    "amount": "145.5",
+    "category": "Medical",
+    "supporting_document": "Medical_Evidence/Pharmacy_Receipt.pdf"
+  },
+  {
+    "date": "2025-03-05",
+    "description": "Bank Statement - March",
+    "amount": "4200",
+    "category": "Bank Records",
+    "supporting_document": "Financial_Records/Bank_Statement_Mar.pdf"
+  },
+  {
+    "date": "2025-03-15",
+    "description": "Additional Medical Exam",
+    "amount": "600",
+    "category": "Medical",
+    "supporting_document": "Medical_Evidence/Medical_Exam_Mar.pdf"
+  }
+]

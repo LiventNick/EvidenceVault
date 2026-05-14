@@ -1,0 +1,13 @@
+{
+  "name": "expense-2026-02-25",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Excel to Hugo data converter",
+  "scripts": {
+    "convert": "node scripts/convert.js",
+    "build": "node scripts/convert.js && hugo"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2024-06-15",
+    "event": "Initial Incident Report Filed",
+    "parties_involved": "Plaintiff",
+    "location": "Court of Record",
+    "evidence_file": "Legal_Documents/Incident_Report.pdf",
+    "notes": "Formal complaint submitted"
+  },
+  {
+    "date": "2024-06-20",
+    "event": "Defendant Response Received",
+    "parties_involved": "Defendant",
+    "location": "Court of Record",
+    "evidence_file": "Correspondence/Defendant_Response.pdf",
+    "notes": "Official response with counterclaims"
+  },
+  {
+    "date": "2024-07-01",
+    "event": "Third-Party Medical Evaluation",
+    "parties_involved": "Medical Examiner",
+    "location": "Medical Office",
+    "evidence_file": "Medical_Evidence/Medical_Evaluation.pdf",
+    "notes": "Independent evaluation completed"
+  },
+  {
+    "date": "2024-07-15",
+    "event": "Discovery Period - Documents Exchanged",
+    "parties_involved": "Both Parties",
+    "location": "Court",
+    "evidence_file": "Legal_Documents/Discovery_List.pdf",
+    "notes": "All parties exchanged documents"
+  },
+  {
+    "date": "2024-08-10",
+    "event": "Motion Hearing",
+    "parties_involved": "Both Parties + Judge",
+    "location": "Court Room 4",
+    "evidence_file": "Legal_Documents/Hearing_Transcript.pdf",
+    "notes": "Pre-trial motion hearing held"
+  }
+]
