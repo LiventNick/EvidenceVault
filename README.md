@@ -196,7 +196,7 @@ Referenced file paths in Excel should match this structure exactly. For example,
 
 #### 3.2 Configure Build Settings
 
-1. **Framework**: Select "Hugo"
+1. **Framework**: Select "Node"
 2. **Build command**: `npm run build`
 3. **Build output directory**: `public`
 4. **Node version**: 18+ (set in Environment Variables if needed)
